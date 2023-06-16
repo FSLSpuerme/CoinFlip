@@ -2,6 +2,8 @@
 #include <QDebug>
 #include <QPropertyAnimation>
 
+//翻金币游戏
+
 //MyPushButton::MyPushButton(QWidget *parent) : QPushButton(parent)
 //{
 
