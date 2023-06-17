@@ -3,6 +3,7 @@
 #include <QPropertyAnimation>
 
 //翻金币游戏
+//这是一个master提交
 
 //MyPushButton::MyPushButton(QWidget *parent) : QPushButton(parent)
 //{
